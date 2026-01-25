@@ -1,0 +1,15 @@
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-F_Cu.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-B_Cu.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-F_Paste.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-B_Paste.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-F_Mask.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-B_Mask.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-User_Eco1.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-User_Eco2.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-Edge_Cuts.gbr'.
+Plotted to 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-Margin.gbr'.
+Created Gerber job file 'C:\Users\ARITRA BANIK\Desktop\6 channel transmitter\transmitter\Gerber_files\transmitter-job.gbrjob'.
+Info: Done.
+Info: Done.
