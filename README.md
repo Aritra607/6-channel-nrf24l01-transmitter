@@ -20,6 +20,10 @@ The system provides precision analog control with reliable 2.4 GHz wireless comm
 |:---:|:---:|:---:|
 | <img src="images/3D-VIEW.png" width="250" /> | <img src="images/PCB.png" width="250" /> | <img src="images/Schematics.png" width="250" /> |
 | *3D render of transmitter PCB* | *Double-sided PCB design* | *Complete circuit diagram* |
+| **Transmitter** | **Receiver** |
+|:---:|:---:|:---:|
+| <img src="images/transmitter.jpg" width="250" /> | <img src="images/receiver.jpg" width="250" /> |
+| *Transmitter Front* | *Receiver Front* |
 
 ---
 
